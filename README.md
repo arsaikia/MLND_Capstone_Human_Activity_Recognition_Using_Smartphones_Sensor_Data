@@ -29,7 +29,7 @@ Python packages Required to run the Notebooks:
 * 1. Capstone_Exploration : Includes data import and vizualizing the dataset.
 * 2. Capstone_Selecting-Dataset: Included model performance on both unprocessed and processed datasets.
 * 3. Capstone_Pre-Processing: Includes all preprocessing done.
-* 4. Capstone_SVC: Includes the basic model, intermediate parameter tuning steps leding to the final optimized model.
-* 5. Capstone_LR: Includes the basic model, intermediate parameter tuning steps leding to the final optimized model.
-* 6. Capstone_LGBM: Includes the basic model, intermediate parameter tuning steps leding to the final optimized model.
-* 7. Capstone_Keras: Includes the basic model, intermediate parameter tuning steps leding to the final optimized model.
+* 4. Capstone_SVC: Includes the basic model, intermediate parameter tuning steps leading to the final optimized model.
+* 5. Capstone_LR: Includes the basic model, intermediate parameter tuning steps leading to the final optimized model.
+* 6. Capstone_LGBM: Includes the basic model, intermediate parameter tuning steps leading to the final optimized model.
+* 7. Capstone_Keras: Includes the basic model, intermediate parameter tuning steps leading to the final optimized model.
