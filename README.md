@@ -1,7 +1,5 @@
-# Udacity-s-MLND-Capstone-Human-Activity-Recognition-Using-Smartphones-Sensor-Data
-A part of the Udacity's Machine Learning Engineer Nanodegree Program : Capstone
-
 # To find an Optimum Machine Learning Model for Human Activity Recognition Using Smartphones Sensor Data
+As a part of Udacity's MLND Capstone Project
 
 This repository describes an approach to determine Human Activity Recognition Using Smartphones Sensor Data.
 
