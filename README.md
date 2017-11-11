@@ -17,7 +17,7 @@ Python packages Required to run the Notebooks:
 * LightGBM
 
 ## Required Files
-  Dataset: https://www.kaggle.com/uciml/ human-activity-recognition-with-smartphones/data
+  Dataset: https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones/data
   
   
 ## Steps
